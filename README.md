@@ -1,0 +1,2 @@
+# Hovedbokscanner
+Scanner hovedbok
